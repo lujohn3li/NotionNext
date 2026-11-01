@@ -45,7 +45,7 @@ npm run build
 
 ## 配图
 
-`public/images/chipai-hero.jpg` 为此次改版生成的 AI 芯片主题概念图，并非具体芯片产品照片。页面配有对应说明。
+`public/images/chipai-hero.svg` 为此次改版生成的 AI 芯片主题概念图，并非具体芯片产品照片。页面配有对应说明。
 
 ## 本次本地验证结果与限制
 
